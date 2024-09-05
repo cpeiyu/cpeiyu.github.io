@@ -1,0 +1,38 @@
+---
+title: "Peiyu Chen"
+image: "profilephoto.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/chen-peiyu/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?hl=en&user=917cDhIAAAAJ"
+    
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Peiyu Chen is a second-year MHS student in Cardiovascular and Clinical Epidemiology and a registered dietitian. Her research interests Include nutritional epidemiology and chronic diseases. Her thesis project investigates the association between dietary protein intake and incidence of dementia in ARIC study.  
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+
+MHS in Epidemiology | August 2023 - May 2025
+
+**University of Michigan, School of Public Health** | Ann Arbor, MI
+
+MS in Nutritional Sciences | August 2017 - May 2019
+
+**University of Delaware** | Newark, DE
+
+B.S. in Dietetics | August 2013 - May 2017
+
+
+## Experience
+
+**Imperial, a Villa Center** | Registered Dietitian | May 2020 - June 2022
+
+**Frankel Cardiovascular Center** | Student Research Assistance | Feb 2018 - Apr 2019
+
